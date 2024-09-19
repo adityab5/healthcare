@@ -6,7 +6,7 @@ This is a simple React web application to manage and display a list of healthcar
 
 1. Clone the repository:
    ```
-   git clone 
+   git clone https://github.com/adityab5/healthcare.git
    cd healthcare
    ```
 
@@ -25,7 +25,7 @@ This is a simple React web application to manage and display a list of healthcar
 ## Deployment
 
 - Go to my vercel deployment:
-   Open []() to view it in the browser globally.
+   Open [https://healthcare-umber-chi.vercel.app/](https://healthcare-umber-chi.vercel.app/) to view it in the browser globally.
 
 
 
