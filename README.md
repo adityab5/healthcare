@@ -20,7 +20,7 @@ This is a simple React web application to manage and display a list of healthcar
    npm run dev
    ```
 
-4. Open [http://localhost:5173](http://localhost:5173) to view it in the browser locally.
+4. Open [http://localhost:5173](http://localhost:5173) (or any other port of your localhost) to view it in the browser locally.
 
 ## Deployment
 
